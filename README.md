@@ -10,4 +10,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/rohit-pandey-4129aa185/
 - 😄 Pronouns: Fine
 - ⚡ Fun fact: Coading
-College Name: IGEC.
+
