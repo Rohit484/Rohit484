@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit pandey</h1>
 <h3 align="center">Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit484&label=Profile%20views&color=0e75b6&style=flat" alt="rohit484" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit484" alt="rohit484" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rohit_pandey141" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_pandey141?logo=twitter&style=for-the-badge" alt="rohit_pandey141" /></a> </p>
 
